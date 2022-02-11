@@ -2,7 +2,7 @@
 title: 网易云音乐下载API
 description: 可以通过调用API来下载网易云音乐的歌曲（注：无法试听的歌曲除外）
 published: true
-date: 2022-02-11T04:53:57.157Z
+date: 2022-02-11T04:54:58.726Z
 tags: netease, neteasecloudmusic, api, music, download
 editor: markdown
 dateCreated: 2022-02-11T04:26:38.356Z
@@ -20,7 +20,9 @@ dateCreated: 2022-02-11T04:26:38.356Z
 
 例如[YOASOBI - 群青](https://music.163.com/song?id=1472480890&userid=252340012)这首歌
 
-![获得网易云分享链接](https://user-images.githubusercontent.com/28426291/153539463-24515417-4eb9-48b0-8c82-130649e40a9b.png)
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/28426291/153539463-24515417-4eb9-48b0-8c82-130649e40a9b.png' desc='获得网易云分享链接' />
+</div>
 
 通过网易云分享出来的链接为[https://music.163.com/song?id=1472480890&userid=252340012](https://music.163.com/song?id=1472480890&userid=252340012)
 
