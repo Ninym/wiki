@@ -2,7 +2,7 @@
 title: 网易云音乐下载API
 description: 可以通过调用API来下载网易云音乐的歌曲（注：无法试听的歌曲除外）
 published: true
-date: 2022-03-11T11:17:10.892Z
+date: 2022-03-11T13:20:45.994Z
 tags: netease, neteasecloudmusic, api, music, download
 editor: markdown
 dateCreated: 2022-02-11T04:26:38.356Z
@@ -24,10 +24,10 @@ dateCreated: 2022-02-11T04:26:38.356Z
 
 <div align='center'>
 
-| Parameter | Example | Required | Type |
-|:--:|:--:|:--:|:--:|
-| id | `1472480890` | √ | `int`(any) |
-| type | `attachment` | × |	`attachment`(default) or `json` |
+| Parameter | Example | Required | Type | Default |
+|:--:|:--:|:--:|:--:|:--:|
+| id | `1472480890` | √ | `int` | None |
+| type | `attachment` | × |	`attachment` or `json` | `attachment` |
 
  </div>
   
