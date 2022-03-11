@@ -2,7 +2,7 @@
 title: 网易云音乐下载API
 description: 可以通过调用API来下载网易云音乐的歌曲（注：无法试听的歌曲除外）
 published: true
-date: 2022-03-11T11:04:18.433Z
+date: 2022-03-11T11:04:27.187Z
 tags: netease, neteasecloudmusic, api, music, download
 editor: markdown
 dateCreated: 2022-02-11T04:26:38.356Z
@@ -30,7 +30,7 @@ dateCreated: 2022-02-11T04:26:38.356Z
 
 ### v1
 
-那么就可以通过访问[https://api.ninym.top/song/?id=1472480890](https://api.ninym.top/song/?id=1472480890)来下载到这一首歌曲。
+通过访问[https://api.ninym.top/song/?id=1472480890](https://api.ninym.top/song/?id=1472480890)来下载到这一首歌曲。
 
 ### v2
 
