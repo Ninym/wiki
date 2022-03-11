@@ -2,7 +2,7 @@
 title: 网易云音乐下载API
 description: 可以通过调用API来下载网易云音乐的歌曲（注：无法试听的歌曲除外）
 published: true
-date: 2022-03-11T11:10:16.374Z
+date: 2022-03-11T11:16:22.090Z
 tags: netease, neteasecloudmusic, api, music, download
 editor: markdown
 dateCreated: 2022-02-11T04:26:38.356Z
@@ -44,6 +44,16 @@ dateCreated: 2022-02-11T04:26:38.356Z
   "name": "\u7fa4\u9752"
 }
 ```
+
+#### 返回值详解
+
+| id | msg | Reason | Handle |
+|:--:|---|---|---|
+| 200 | Success | Successfully finished the request | None |
+| 500 | Cannot fetch download link | This song is existed on NeteaseCloudMusic but we cannot fetch the download link of it | Try api v1 |
+| -1 | Canot fetch resoure | This song may existed on NeteaseCloudMusic but it may be a VIP song so that we cannot fetch the download link of it | Try NeteaseCloudMusic VIP :D |
+| -2 | It seems that id `${id}` not a valid song id | The id doesn't match a song on NeteaseCloudMusic | Check whether your `${id}` is correct of not |
+| -3 | Timed out. Please try again later. | This may happen when the server's network is not quite good | Try again later |
 
 ### 通过分享链接获得id
 
