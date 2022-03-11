@@ -2,7 +2,7 @@
 title: 网易云音乐下载API
 description: 可以通过调用API来下载网易云音乐的歌曲（注：无法试听的歌曲除外）
 published: true
-date: 2022-02-11T04:54:58.726Z
+date: 2022-03-11T11:03:07.370Z
 tags: netease, neteasecloudmusic, api, music, download
 editor: markdown
 dateCreated: 2022-02-11T04:26:38.356Z
@@ -28,7 +28,32 @@ dateCreated: 2022-02-11T04:26:38.356Z
 
 其中我们只需要`id=`后面的那一串数字，`userid`可以忽略掉
 
+### v1
+
 那么就可以通过访问[https://api.ninym.top/song/?id=1472480890](https://api.ninym.top/song/?id=1472480890)来下载到这一首歌曲。
+
+### v2
+
+`v2`在`v1`的基础上增加了一些query参数，这些参数如下
+
+| Parameter | Example | Required | Type |
+|---|---|---|
+| id | `1472480890` | √ | `int`(any) |
+| type | `attachment` | × |	`attachment`(default) or `json` |
+
+`id`表示歌曲的id，可以通过分享链接获得
+
+`type`表示api的返回类型，如果是`attachment`则以文件方式返回，如果是`json`就会返回一个包含一定信息的json，下面是一个例子
+
+```json
+{
+  "author": "YOASOBI", 
+  "code": 200, 
+  "link": "http://m10.music.126.net/20220311192740/ea6280394442dd75c7f54ab34955bf4a/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3695407857/774f/d95c/a844/40a2fce4c5077965a13c50d212f1a96a.mp3", 
+  "msg": "Success", 
+  "name": "\u7fa4\u9752"
+}
+```
 
 ## Demo
 
