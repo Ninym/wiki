@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎使用GamerNoTitle的API
 published: true
-date: 2022-03-11T11:06:09.523Z
+date: 2022-03-18T02:23:56.007Z
 tags: home, homepage, 首页, 主页
 editor: markdown
 dateCreated: 2022-02-11T04:14:27.076Z
@@ -19,3 +19,8 @@ dateCreated: 2022-02-11T04:14:27.076Z
 | v2 | https://dev.api.ninym.top | Online | Python + Flask | Unstable, but more features |
 
 **本站需要登录才能够发表评论，如果你需要发表评论，请先登录！**
+
+## 更新日志
+
+- 2022.03.18 加入Github Release下载圆饼图API
+- 2022.03.11 加入网易云音乐下载API
