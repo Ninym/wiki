@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎使用GamerNoTitle的API
 published: true
-date: 2022-03-18T14:40:14.800Z
+date: 2022-03-23T09:02:28.525Z
 tags: home, homepage, 首页, 主页
 editor: markdown
 dateCreated: 2022-02-11T04:14:27.076Z
@@ -15,8 +15,9 @@ dateCreated: 2022-02-11T04:14:27.076Z
 
 | Version | Link | Status | Backend | Mark |
 |:--:|---|---|:--:|:--:|
-| Legacy | https://api.ninym.top | Online | Javascript | Stable, but less features |
-| Main | https://dev.api.ninym.top | Online | Python + Flask | Unstable, but more features |
+| Main | https://api.ninym.top | Online | Python + Flask | Unstable, but more features |
+| Legacy | https://legacy.api.ninym.top | Online | Javascript | Stable, but less features |
+
 
 **本站需要登录才能够发表评论，如果你需要发表评论，请先登录！**
 
