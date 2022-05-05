@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎使用GamerNoTitle的API
 published: true
-date: 2022-05-05T11:57:24.399Z
+date: 2022-05-05T11:59:21.008Z
 tags: home, homepage, 首页, 主页
 editor: markdown
 dateCreated: 2022-02-11T04:14:27.076Z
@@ -24,8 +24,8 @@ dateCreated: 2022-02-11T04:14:27.076Z
 
 | Host | Link | Status | Mark |
 |:--:|:--:|:--:|
-| Railway | https://api.ninym.top \| https://railway.api.ninym.top | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eb2i.svg)](https://betteruptime.com/?utm_source=status_badge) | Default |
-| Render | https://render.api.ninym.top | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eb2j.svg)](https://betteruptime.com/?utm_source=status_badge) |  |
+| [Railway](https://railway.app?referralCode=U8coe_) | https://api.ninym.top \| https://railway.api.ninym.top | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eb2i.svg)](https://betteruptime.com/?utm_source=status_badge) | Default |
+| [Render](https://render.com/register) | https://render.api.ninym.top | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eb2j.svg)](https://betteruptime.com/?utm_source=status_badge) |  |
 
 
 **本站需要登录才能够发表评论，如果你需要发表评论，请先登录！**
