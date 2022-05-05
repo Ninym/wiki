@@ -2,7 +2,7 @@
 title: 首页
 description: 欢迎使用GamerNoTitle的API
 published: true
-date: 2022-05-05T12:47:59.096Z
+date: 2022-05-05T12:49:43.694Z
 tags: home, homepage, 首页, 主页
 editor: markdown
 dateCreated: 2022-02-11T04:14:27.076Z
@@ -29,7 +29,7 @@ dateCreated: 2022-02-11T04:14:27.076Z
 | [Render](https://render.com/register) | https://render.api.ninym.top | [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/eb2j.svg)](https://betteruptime.com/?utm_source=status_badge) |  |
 
 
-> **本站需要登录才能够发表评论，如果你需要发表评论，请先登录！**
+> **本站需要登录社交账号（Google/Twitter/Github/Gitlab）或者邮箱登录才能够发表评论，如果你需要发表评论，请先登录！**
 {.is-warning}
 
 
