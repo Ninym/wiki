@@ -2,7 +2,7 @@
 title: Osu谱面代理下载
 description: 通过api来帮助你加速下载osu的谱面
 published: true
-date: 2022-05-05T11:30:08.719Z
+date: 2022-05-05T12:46:45.394Z
 tags: download, osu, downloader, map, osz
 editor: markdown
 dateCreated: 2022-05-05T11:18:55.209Z
@@ -14,6 +14,10 @@ dateCreated: 2022-05-05T11:18:55.209Z
 `https://api.ninym.top/osumap/${mapid}(?noVideo=${noVideo})`
 
 **上面这两个路径都可以访问到这个api**
+
+> Osu个人资料：https://osu.ppy.sh/users/29475205
+{.is-info}
+
 
 <div align='center'>
 
