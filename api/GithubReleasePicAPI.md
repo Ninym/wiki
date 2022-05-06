@@ -2,8 +2,8 @@
 title: Github Release下载次数图片生成API
 description: 通过调用API来生成基于Matplotlib绘图的RELEASE下载次数饼状图
 published: true
-date: 2022-03-25T08:48:08.795Z
-tags: github, pic, release, github release, generate, matplotlib, numpy
+date: 2022-05-06T11:32:00.024Z
+tags: api, github, pic, release, github release, generate, matplotlib, numpy
 editor: markdown
 dateCreated: 2022-03-17T03:25:49.463Z
 ---
