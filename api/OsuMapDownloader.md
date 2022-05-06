@@ -2,8 +2,8 @@
 title: Osu谱面代理下载
 description: 通过api来帮助你加速下载osu的谱面
 published: true
-date: 2022-05-05T12:46:45.394Z
-tags: download, osu, downloader, map, osz
+date: 2022-05-06T11:31:34.853Z
+tags: api, download, osu, downloader, map, osz
 editor: markdown
 dateCreated: 2022-05-05T11:18:55.209Z
 ---
